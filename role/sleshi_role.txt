@@ -1,0 +1,9 @@
+Tihut Sleshi
+Created database for SQL project
+- database connection
+- database population
+- revisions
+Worked heavily on GUI and functionality for SQL project
+- admin/financial advisor view
+- user view
+- addition, deletion, and update functionality

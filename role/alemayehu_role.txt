@@ -1,0 +1,5 @@
+Afomiya Alemayehu
+Worked on database creation, population, and revisions
+Made revisions to documents and diagrams
+Worked on GUI styling
+Aided Tihut in functionality and GUI for final project

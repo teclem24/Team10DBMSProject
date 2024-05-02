@@ -1,0 +1,6 @@
+Mical Tecle
+Worked on revisions for diagrams and organizing reports for phases
+Worked on GUI for SQL project, as well as generally functionality
+- login functionality
+- admin/financial advisor user functionality
+- styling for GUI
